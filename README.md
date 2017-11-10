@@ -25,3 +25,5 @@
 - [正弦函数伸缩变换](https://wenku.baidu.com/view/beda69870029bd64783e2c28.html)  
 - [三角函数平移变换和周期变换](https://wenku.baidu.com/view/3ecdb3f0b0717fd5360cdc80.html)
 
+
+详细过程请参考简书：[【iOS】绘画波浪篇](http://www.jianshu.com/p/0e304b3cc448) 
